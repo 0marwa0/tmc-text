@@ -6,6 +6,9 @@ body {
   justify-content: center;
   height: 100vh;
   background-color: black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
 }
 
 .animation-container {
@@ -24,6 +27,6 @@ body {
     font-size: 0.5em;
   }
   50% {
-    font-size: 2em;
+    font-size: 7em;
   }
 }
